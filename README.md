@@ -77,6 +77,9 @@ Datos del Trabajador
  
  ~~~
 
+## Etapa 3. Diseño de la solución 
+
+
  
  
   
