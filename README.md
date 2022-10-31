@@ -79,7 +79,7 @@ Datos del Trabajador
 
 ## Etapa 3. Diseño de la solución 
 
-![](https://github.com/EduardoManilla2/T3A2---Ejercicio-02/blob/main/T3A2.png)
+![](https://github.com/EduardoManilla2/T3A6/blob/main/Las%20Clases.jpg)
 
 
 
