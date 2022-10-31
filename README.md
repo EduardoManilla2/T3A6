@@ -15,3 +15,6 @@ Realiza del calculo respectivo del ISR sobre el sueldo bruto. Por último, mostr
 
 ## Etapa 2. Especificaciones
 
+-Entrada:
+  -
+
