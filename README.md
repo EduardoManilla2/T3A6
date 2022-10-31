@@ -15,6 +15,69 @@ Realiza del calculo respectivo del ISR sobre el sueldo bruto. Por último, mostr
 
 ## Etapa 2. Especificaciones
 
--Entrada:
-  -
+-Entrada: 
+    (Cantidad de empleados) 
+Datos del Trabajador
+  -Nombre
+  -Apellidos
+  -RFC
+  -Curp
+  -Email
+  -Telefono
+  -Numero de contrato
+  -Años de antiguedad
+  -Horas laborales del contrato
+  -Salario Bace
+  
+  -Proseso:
+      -Calcular bono por antigudad
+      -Calcular ISR
+      
+  -Salida:
+      -Reporte de los trabajadores
+ ~~~
+ +----------------------------------------------------------------+
+ ----------------Reporte de los trabajadores-----------------------
+ 
+ Cantidad de empleados: (2)
+ ------------------------------------------------------------------
+ Nombre: Eduardo Perez Manilla
+ RFC: PEME0198375hHIp
+ Curp: PEME04068491Hpark02
+ Correo: lalo@gmail.com
+ Telefono: 2311001010
+ 
+ Numero de contrato: 001
+ Tipo de empleado: Generente
+ Años de antiguedad: 10 años 
+ Horas laborales: 8 hrs
+ Salario bace: 100
+ ISR: 
+ BONO: 
+ Salario neto a pagar:
+ 
+ +-------------------------------------------------------------------+
+  Nombre: Lalo Manilla Perez
+ RFC: PEME0198375hHIp
+ Curp: PEME04068491Hpark02
+ Correo: lalo@gmail.com
+ Telefono: 2311001011
+ 
+ Numero de contrato: 002
+ Tipo de empleado: Administrador 
+ Años de antiguedad: 4 años 
+ Horas laborales: 7 Hrs
+ Salario bace: 50
+ ISR: 
+ BONO: 
+ Salario neto a pagar:
+ 
+ -------------------------------------------------------------------
+ +-----------------------------------------------------------------+
+ 
+ ~~~
+
+ 
+ 
+  
 
